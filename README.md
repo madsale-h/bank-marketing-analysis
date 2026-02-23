@@ -25,4 +25,4 @@ While analyzing the data, I discovered a significant behavioral pattern:
 ## 📂 Repository Contents
 - `bank_cleaning_and_EDA.sql` : The SQL script used for data cleaning and exploration.
 - `bank_dataset.csv` : Dirty Data
-- 
+- `bank data clean josjis` : Clean Data
